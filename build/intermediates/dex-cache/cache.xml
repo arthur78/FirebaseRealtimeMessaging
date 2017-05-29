@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/d4636ee8b50e4eda2de40d2b9e73c894d935a0f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_53ec6a66b99eaecf9d85ac799313827850bb28e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/7d1d981d85fa73269724546a11e723c4758622e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_c360bc567395801970735ad05760d49a61e08499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/272007ea214752350d136ba8f356b57f6a0bd79b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_ed3d46aa6df03628a53b62a077cf39477106413e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/d19b577a51303bf8981a1ea08f2a72471eae8ee1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_c999c661a30034904f5b50341d81db1a43086586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/401a2acfbd47afff3bbf0f4f41a1ede8972c5f49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_a65a587b56ba2990f1d2ea79a891ef6117c83890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/8d3aafddf65de4c50f2c14d0c490716fbb5a1f97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_cfed54acd35e8b7ac8bc3334f506f412d04d84d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/ae62ba03ec3d33cbc7fe13fae4dbc1c8ad68f180/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_11d749b9d3f0797abe9faca69668c6639715f8bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/bb9028c6515c91fa02469a2026a230717cebb8b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_f28750cc4a9b51ee2a4ab1b6d3f40085c729fb23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/b880d514c8938dd23f344c9532e4f7f2bd40d5c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_05ef6bf1da0aa40ecb1824d64e3c18b084235edb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/96cf22515a3a213731b6c01a28a9884e2eed0c65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_c20fc7be3ded06408094bc638838b1359f7ee3cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/3b7d9d7e8fe8796004a75461affca79b516bdf6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_8b7af3a8f2f34f230e6c9a14d3015633ebe2842b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/1290f537dbd879819f33bbcab8702e8f145ceb91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_c148dc4edb5e1c10e3392c65f45cb04a2fc32acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_037bab7c77eaf48e1afe27011695686ac00df478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/9dbd2d96125f7c772ed6fad38a3a80f551c1f7ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_fa61c52f6250afe2dd1078cdd9a3f3dd2776b299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/6397b419c68c0cc97c55a841dba1f0ca4db6388d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_902d2ae934b997e949cc9092e71be05769f34001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/c1910958bb24285cf59ccc7b3a8df3268a291128/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_d51e4c0e5c8c5b7b00baaecaf339198a32c26270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/d5a4913b7e04c4c9471dd1629153c4f7f6035136/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_d9eb8aba2efa96f5bf808c761b9093580b4d12ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_8618bd2e7c6d6cb05a8f173df5afe18628b80a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/0d50a1e820730689012138abec9e89d25a9f1dae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_f70eb653b99573200c9a836272b2c56ac6737f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/b3748740b806aa060611cafa49180309a701630c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_9602ae882cd99037ecdaad53a1419ef4e3409721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/337cfc897512da8d65d2de4108bac92bb0655671/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_f5ccb548164cadc6d62c397eea6583be9b964f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/27c14283ec69add8db57e3fa48680a5de5273ab1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_2a0f436f45967bfdab33bca12c00b14a9b2c8813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/25aacd3c26d7ccb7807aad3d81db2913081c5e85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_2453f36f781e4ea276197866bc0c9a1e1d8d8198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xak/.android/build-cache/787ac078d2e733d162eaade97167b5c0963e7e3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/xak/AndroidStudioProjects/firebase_mlustig/01-exercise/app/build/intermediates/pre-dexed/debug/classes_710b0a7d6c7cc458c33cf9608c44edd0a4f44046.jar" />
+    </item>
+
+</items>
